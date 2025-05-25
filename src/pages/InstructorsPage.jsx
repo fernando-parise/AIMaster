@@ -52,15 +52,15 @@ const InstructorsPage = () => {
   }
 
   return (
-    <div className={`transition-opacity duration-1000 ${isVisible ? 'opacity-100' : 'opacity-0'}`}>
+    <div className={`transition-opacity duration-1000 ${isVisible ? 'opacity-100' : 'opacity-0'}`}> 
       {/* Hero Section */}
       <div className="bg-gradient-to-b from-gray-900 to-black py-24 px-4">
         <div className="container mx-auto max-w-5xl text-center">
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-6">
-            向<span className="text-yellow-400">行业顶尖专家</span>学习
+            Aprenda com os <span className="text-yellow-400">principais especialistas do setor</span>
           </h1>
           <p className="text-xl md:text-2xl text-gray-300 max-w-3xl mx-auto">
-            我们的讲师均来自各自领域的佼佼者，拥有丰富的实战经验和教学能力，带你走向专业巅峰
+            Nossos instrutores são referências em suas áreas, com vasta experiência prática e capacidade de ensino, guiando você ao topo da sua profissão
           </p>
         </div>
       </div>
@@ -97,8 +97,8 @@ const InstructorsPage = () => {
                   <p className="text-gray-400 mb-4 line-clamp-2 h-12">{instructor.bio}</p>
                   
                   <div className="flex justify-between items-center">
-                    <span className="text-yellow-400">{getInstructorCourseCount(instructor.id)} 门课程</span>
-                    <span className="text-gray-400 text-sm">查看详情 →</span>
+                    <span className="text-yellow-400">{getInstructorCourseCount(instructor.id)} cursos</span>
+                    <span className="text-gray-400 text-sm">Ver detalhes →</span>
                   </div>
                 </div>
               </Link>
@@ -110,12 +110,12 @@ const InstructorsPage = () => {
       {/* Join As Instructor CTA */}
       <div className="bg-gradient-to-r from-yellow-900/20 to-black py-16 px-4">
         <div className="container mx-auto max-w-4xl text-center">
-          <h2 className="text-3xl md:text-4xl font-bold mb-4">成为我们的讲师</h2>
+          <h2 className="text-3xl md:text-4xl font-bold mb-4">Torne-se um dos nossos instrutores</h2>
           <p className="text-xl text-gray-300 mb-8">
-            如果您是行业专家并希望将您的知识传授给更多学习者，欢迎加入我们的讲师团队
+            Se você é especialista no setor e deseja compartilhar seu conhecimento com mais aprendizes, venha fazer parte do nosso time de instrutores
           </p>
           <button className="bg-yellow-500 hover:bg-yellow-400 text-black font-semibold px-8 py-3 rounded transition-colors">
-            申请成为讲师
+            Candidatar-se como instrutor
           </button>
         </div>
       </div>

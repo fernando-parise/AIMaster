@@ -25,13 +25,13 @@ const CoursePage = () => {
     return (
       <div className="flex justify-center items-center min-h-screen bg-black px-4">
         <div className="text-white text-center">
-          <h2 className="text-2xl font-bold mb-2">课程加载失败</h2>
-          <p className="text-gray-400 mb-6">{error || '无法找到该课程，请检查链接是否正确。'}</p>
+          <h2 className="text-2xl font-bold mb-2">Falha ao carregar o curso</h2>
+          <p className="text-gray-400 mb-6">{error || 'Não foi possível encontrar o curso, verifique se o link está correto.'}</p>
           <Link 
             to="/courses"
             className="bg-white text-black px-6 py-2 rounded font-medium hover:bg-gray-200 transition-colors"
           >
-            返回课程列表
+            Voltar para a lista de cursos
           </Link>
         </div>
       </div>
@@ -85,13 +85,13 @@ const CoursePage = () => {
                     className="w-12 h-12 rounded-full object-cover mr-4"
                   />
                   <div>
-                    <span className="text-sm text-gray-400">讲师</span>
+                    <span className="text-sm text-gray-400">Instrutor</span>
                     <h3 className="font-medium">{course.instructor.name}</h3>
                   </div>
                 </div>
                 
                 <div>
-                  <span className="text-sm text-gray-400">课程章节</span>
+                  <span className="text-sm text-gray-400">Capítulos do curso</span>
                   <h3 className="font-medium">{course.chapters.length} 章节</h3>
                 </div>
               </div>
@@ -104,13 +104,13 @@ const CoursePage = () => {
                   <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 mr-2" viewBox="0 0 20 20" fill="currentColor">
                     <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zM9.555 7.168A1 1 0 008 8v4a1 1 0 001.555.832l3-2a1 1 0 000-1.664l-3-2z" clipRule="evenodd" />
                   </svg>
-                  观看课程预告
+                  Assistir ao trailer do curso
                 </button>
                 <Link 
                   to="/subscription"
                   className="border border-white px-6 py-3 font-medium rounded hover:bg-white hover:text-black transition-colors"
                 >
-                  订阅课程
+                  Assinar curso
                 </Link>
               </div>
             </div>
@@ -147,25 +147,25 @@ const CoursePage = () => {
               className={`pb-4 px-1 font-medium text-lg whitespace-nowrap ${activeSection === 'overview' ? 'border-b-2 border-white text-white' : 'text-gray-400'}`}
               onClick={() => setActiveSection('overview')}
             >
-              课程概览
+              Visão geral do curso
             </button>
             <button 
               className={`pb-4 px-1 font-medium text-lg whitespace-nowrap ${activeSection === 'content' ? 'border-b-2 border-white text-white' : 'text-gray-400'}`}
               onClick={() => setActiveSection('content')}
             >
-              课程内容
+              Conteúdo do curso
             </button>
             <button 
               className={`pb-4 px-1 font-medium text-lg whitespace-nowrap ${activeSection === 'instructor' ? 'border-b-2 border-white text-white' : 'text-gray-400'}`}
               onClick={() => setActiveSection('instructor')}
             >
-              讲师介绍
+              Instrutor介绍
             </button>
             <button 
               className={`pb-4 px-1 font-medium text-lg whitespace-nowrap ${activeSection === 'reviews' ? 'border-b-2 border-white text-white' : 'text-gray-400'}`}
               onClick={() => setActiveSection('reviews')}
             >
-              学员评价
+              Avaliações dos alunos
             </button>
           </div>
         </div>
@@ -174,10 +174,10 @@ const CoursePage = () => {
         {activeSection === 'overview' && (
           <div className="grid grid-cols-1 lg:grid-cols-3 gap-12">
             <div className="lg:col-span-2">
-              <h2 className="text-2xl font-bold mb-6">课程概览</h2>
+              <h2 className="text-2xl font-bold mb-6">Visão geral do curso</h2>
               <div className="prose prose-lg prose-invert max-w-none">
                 <p>{course.description}</p>
-                <h3>你将学到什么</h3>
+                <h3>O que você vai aprender</h3>
                 <ul className="space-y-2">
                   {course.chapters.map((chapter, idx) => (
                     <li key={idx} className="flex items-start">
@@ -192,26 +192,26 @@ const CoursePage = () => {
             </div>
             
             <div className="bg-zinc-900 rounded-lg p-6">
-              <h3 className="text-xl font-bold mb-6">课程详情</h3>
+              <h3 className="text-xl font-bold mb-6">Detalhes do curso</h3>
               <ul className="space-y-4">
                 <li className="flex justify-between items-center pb-4 border-b border-gray-800">
-                  <span className="text-gray-400">课程时长</span>
+                  <span className="text-gray-400">Duração do curso</span>
                   <span>约 6 小时</span>
                 </li>
                 <li className="flex justify-between items-center pb-4 border-b border-gray-800">
-                  <span className="text-gray-400">难度级别</span>
+                  <span className="text-gray-400">Nível de dificuldade</span>
                   <span>{course.level}</span>
                 </li>
                 <li className="flex justify-between items-center pb-4 border-b border-gray-800">
-                  <span className="text-gray-400">章节数量</span>
+                  <span className="text-gray-400">Número de capítulos</span>
                   <span>{course.chapters.length} 章节</span>
                 </li>
                 <li className="flex justify-between items-center pb-4 border-b border-gray-800">
-                  <span className="text-gray-400">语言</span>
+                  <span className="text-gray-400">Idioma</span>
                   <span>中文</span>
                 </li>
                 <li className="flex justify-between items-center">
-                  <span className="text-gray-400">价格</span>
+                  <span className="text-gray-400">Preço</span>
                   <div>
                     {course.pricing?.discount_percent > 0 ? (
                       <div className="text-right">
@@ -229,7 +229,7 @@ const CoursePage = () => {
                   to="/subscription"
                   className="block bg-white text-black text-center py-3 font-medium rounded hover:bg-gray-200 transition-colors"
                 >
-                  订阅即可解锁
+                  Assine para desbloquear
                 </Link>
               </div>
             </div>
@@ -238,7 +238,7 @@ const CoursePage = () => {
 
         {activeSection === 'content' && (
           <div>
-            <h2 className="text-2xl font-bold mb-6">课程内容</h2>
+            <h2 className="text-2xl font-bold mb-6">Conteúdo do curso</h2>
             <div className="space-y-4">
               {course.chapters.map((chapter, idx) => (
                 <div key={idx} className="bg-zinc-900 rounded-lg overflow-hidden">
@@ -249,7 +249,7 @@ const CoursePage = () => {
                       </span>
                       <h3 className="font-medium">{chapter}</h3>
                     </div>
-                    <span className="text-sm text-gray-400">预览不可用</span>
+                    <span className="text-sm text-gray-400">Prévia indisponível</span>
                   </button>
                 </div>
               ))}
@@ -259,7 +259,7 @@ const CoursePage = () => {
 
         {activeSection === 'instructor' && (
           <div>
-            <h2 className="text-2xl font-bold mb-8">讲师介绍</h2>
+            <h2 className="text-2xl font-bold mb-8">Instrutor介绍</h2>
             <div className="flex flex-col md:flex-row items-start gap-8">
               <img 
                 src={course.instructor.avatar}
@@ -270,7 +270,7 @@ const CoursePage = () => {
                 <h3 className="text-2xl font-bold mb-2">{course.instructor.name}</h3>
                 <p className="text-gray-400 mb-4">{course.instructor.bio}</p>
                 <div className="prose prose-invert max-w-none">
-                  <p>作为该领域的专家，{course.instructor.name}老师拥有多年的实战经验和教学经验，帮助众多学员成功掌握相关技能，并在实际工作中取得了显著的成果。</p>
+                  <p>Como especialista na área，{course.instructor.name}老师拥有多年的实战经验和教学经验，帮助众多学员成功掌握相关技能，并在实际工作中取得了显著的成果。</p>
                   <p>他/她的授课风格通俗易懂，结合实际案例，让学员能够快速理解并应用所学知识。</p>
                 </div>
               </div>
@@ -281,7 +281,7 @@ const CoursePage = () => {
         {activeSection === 'reviews' && (
           <div>
             <div className="flex flex-col md:flex-row justify-between items-start mb-8">
-              <h2 className="text-2xl font-bold">学员评价</h2>
+              <h2 className="text-2xl font-bold">Avaliações dos alunos</h2>
               <div className="flex items-center mt-4 md:mt-0">
                 <div className="flex">
                   {[1, 2, 3, 4, 5].map((star) => (
@@ -323,7 +323,7 @@ const CoursePage = () => {
               </div>
             ) : (
               <div className="text-center py-12 bg-zinc-900 rounded-lg">
-                <p className="text-gray-400">暂无评价</p>
+                <p className="text-gray-400">Sem avaliações</p>
               </div>
             )}
           </div>
@@ -356,7 +356,7 @@ const CoursePage = () => {
                 </video>
               ) : (
                 <div className="w-full h-full flex items-center justify-center">
-                  <p className="text-gray-400">预告片暂不可用</p>
+                  <p className="text-gray-400">Trailer indisponível</p>
                 </div>
               )}
             </div>

@@ -52,7 +52,7 @@ The platform includes several functional modules:
 │   │   └── styles/              # Styling utilities
 │   │       └── index.css        # Main CSS file for styles
 └── uploads/
-    └── 课程.txt                 # Uploaded course-related text file
+    └── curso.txt                 # Uploaded course-related text file
 ```
 
 # File Description Inventory

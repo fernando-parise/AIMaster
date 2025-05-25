@@ -1,0 +1,174 @@
+【Curso Básico】
+
+Título do Curso: Criando sua Marca Pessoal com IA
+Descrição do Curso: Aprenda a usar ferramentas de IA para construir sua marca pessoal de forma eficiente, desde a criação de avatares até a produção de conteúdo, moldando uma imagem profissional com facilidade.
+Conteúdo do Curso:
+
+- Capítulo 1: O que é a combinação de marca pessoal e IA?
+- Capítulo 2: Criando um avatar de alta qualidade com Midjourney
+- Capítulo 3: ChatGPT ajudando você a escrever sua apresentação e história pessoal
+- Capítulo 4: Criando conteúdo para redes sociais com Canva+IA
+- Capítulo 5: Construindo rapidamente um site pessoal (sem código)
+- Capítulo 6: Projeto prático: Crie seu primeiro exemplo de marca pessoal com IA
+
+Título do Curso: Dicas práticas de IA para operação de e-commerce
+Descrição do Curso: Domine como usar ferramentas de IA para melhorar a eficiência da operação de lojas online, incluindo descrição de produtos, redação publicitária e automação do atendimento ao cliente.
+Capítulos:
+- Capítulo 1 O que a IA pode fazer na operação de e-commerce?
+- Capítulo 2 Geração em massa de títulos e descrições de produtos com ChatGPT
+- Capítulo 3 Edição rápida de vídeos curtos de produtos com Pictory
+- Capítulo 4 Implementação e prática de atendimento automatizado com IA
+- Capítulo 5 Análise de dados e suporte à seleção de produtos
+- Capítulo 6 Projeto prático: Criando uma página de produto de sucesso com IA
+
+Título do Curso: Criação de vídeos curtos com IA para iniciantes
+Descrição do Curso: Sem necessidade de experiência em gravação, aprenda a criar rapidamente vídeos curtos de sucesso usando IA, ideal para plataformas como TikTok, Xiaohongshu e Instagram.
+Capítulos:
+- Capítulo 1 Tendências de conteúdo em vídeos curtos e aplicações de IA
+- Capítulo 2 Geração de vídeos a partir de texto (ferramentas como Runway, Pika)
+- Capítulo 3 Adição automática de narração e legendas
+- Capítulo 4 Geração rápida de capas e títulos de vídeos
+- Capítulo 5 Publicação em múltiplas plataformas e aquisição de tráfego
+- Capítulo 6 Projeto prático: Crie seu primeiro vídeo curto com IA
+
+Título do Curso: Guia para aumentar a eficiência no escritório com ChatGPT
+Descrição do Curso: Aprenda de forma sistemática como usar o ChatGPT para aumentar a eficiência no trabalho diário, abrangendo escrita, resumos, organização de ideias e gestão de projetos.
+Capítulos:
+- Capítulo 1 Aplicações do ChatGPT em cenários de escritório
+- Capítulo 2 Geração automática de documentos de escritório
+- Capítulo 3 Planejamento de projetos e brainstorming
+- Capítulo 4 Automação de e-mails, relatórios semanais e resumos
+- Capítulo 5 Aperfeiçoamento das habilidades de criação de prompts
+- Capítulo 6 Crie seu fluxo de trabalho de IA exclusivo para escritório
+
+Título do Curso: Trabalhe como freelancer com IA e inicie sua jornada paralela
+Descrição do Curso: Explore como utilizar ferramentas de IA para começar sua carreira de freelancer, desde redação e tradução até design gráfico.
+Capítulos:
+- Capítulo 1 Novas tendências do trabalho freelancer em 2025
+- Capítulo 2 Escrita com IA e marketing de conteúdo
+- Capítulo 3 Tradução e localização com IA
+- Capítulo 4 Geração e edição de imagens com IA
+- Capítulo 5 Prática de prospecção de trabalhos em Fiverr/Upwork
+- Capítulo 6 Desafio de projeto: publique seu primeiro trabalho freelance
+
+【Curso Avançado】
+
+Título do Curso: Desenvolvendo uma empresa de uma pessoa com IA  
+Descrição do Curso: Desde a concepção até a entrega do produto, domine como gerenciar sozinho design, desenvolvimento, operações e atendimento ao cliente utilizando IA.  
+Capítulos:  
+- Capítulo 1 O que é uma empresa de uma pessoa com IA  
+- Capítulo 2 Concepção do produto e validação de demanda (usando GPT/Claude)  
+- Capítulo 3 Construção com ferramentas no-code (Bubble, Softr)  
+- Capítulo 4 Atendimento ao cliente com IA e marketing automatizado  
+- Capítulo 5 Estratégias de crescimento e promoção de baixo custo  
+- Capítulo 6 Caso prático: colocando sua empresa de uma pessoa no ar  
+
+Título do Curso: Criando uma aplicação SaaS vertical com IA  
+Descrição do Curso: Aprenda como construir rapidamente uma aplicação SaaS pequena e eficiente com IA, explorando todo o processo desde o desenvolvimento até a monetização.  
+Capítulos:  
+- Capítulo 1 O que é SaaS vertical + IA  
+- Capítulo 2 Geração rápida de protótipo de produto  
+- Capítulo 3 Construção do backend com auxílio de IA  
+- Capítulo 4 Sistema de pagamento e gestão de assinaturas  
+- Capítulo 5 Estratégias de crescimento e retenção de usuários  
+- Capítulo 6 Projeto prático: publique sua primeira aplicação SaaS com IA  
+
+Título do Curso: Guia de Treinamento de Assistente Inteligente com IA do Zero ao Um  
+Descrição do Curso: Domine como personalizar e treinar o seu próprio assistente inteligente, incluindo engenharia de prompts, construção de base de conhecimento e implantação com ajuste fino.  
+Capítulos:  
+- Capítulo 1 Compreendendo o funcionamento de assistentes inteligentes  
+- Capítulo 2 Técnicas avançadas de design de prompts  
+- Capítulo 3 Construção de base de conhecimento privada (usando LlamaIndex/Chroma)  
+- Capítulo 4 Ajuste fino simples de modelos grandes  
+- Capítulo 5 Implantação local e proteção de privacidade  
+- Capítulo 6 Desafio de projeto: treine e publique seu assistente inteligente pessoal  
+
+Título do Curso: Plano de Construção de IP para Criadores de Conteúdo com IA  
+Descrição do Curso: Ensina como produzir conteúdo em escala com IA, gerenciar contas de IP e construir uma barreira competitiva de conteúdo pessoal.  
+Capítulos:  
+- Capítulo 1 Escolhendo o seu nicho de IP  
+- Capítulo 2 Definição de conteúdo e configuração de personagem  
+- Capítulo 3 Fluxo de trabalho com IA para produção em escala de conteúdo  
+- Capítulo 4 Como criar “personalidade” e engajamento do usuário  
+- Capítulo 5 Distribuição em múltiplas plataformas e viralização  
+- Capítulo 6 Projeto prático: complete seu plano de lançamento de IP em 3 meses  
+
+Título do Curso: Criação de Histórias em Quadrinhos Curtas e Romances Ilustrados com IA  
+Descrição do Curso: Aprenda a gerar storyboards, design de personagens e roteiros de histórias com IA, produzindo rapidamente obras originais curtas.  
+Capítulos:  
+- Capítulo 1 Tendências de conteúdo em quadrinhos e ilustrados  
+- Capítulo 2 Desenhando personagens e cenários com Midjourney  
+- Capítulo 3 Auxílio do ChatGPT na escrita de roteiros  
+- Capítulo 4 Layout automático de storyboards com IA (ferramenta de storyboard)  
+- Capítulo 5 Prática no processo de geração de romances ilustrados  
+- Capítulo 6 Desafio de projeto: publique sua primeira obra curta criada com IA  
+
+Título do Curso: Prática de Geração de Música e Criação de Áudio com IA  
+Descrição do Curso: Domine como usar IA para gerar música original, mixagem e design de som, ideal para podcasts, narração de vídeos curtos e outras aplicações.  
+Capítulos:  
+- Capítulo 1 Visão geral das ferramentas de música com IA (Suno, Boomy, etc.)  
+- Capítulo 2 Técnicas básicas de conversão de texto em música  
+- Capítulo 3 Mixagem e edição auxiliadas por IA  
+- Capítulo 4 Direitos autorais de áudio e precauções de uso  
+- Capítulo 5 Publicação de obras musicais em múltiplas plataformas  
+- Capítulo 6 Desafio de projeto: produza sua primeira música com IA  
+
+Título do Curso: Bootcamp de Introdução para Engenheiros de Prompt  
+Descrição do Curso: Domine rapidamente as técnicas de escrita de Prompts de alta qualidade e conheça as carreiras e aplicações práticas.  
+Capítulos:  
+- Capítulo 1 O que é um Engenheiro de Prompt  
+- Capítulo 2 Casos de design de Prompt em diferentes indústrias  
+- Capítulo 3 Técnicas para melhorar a qualidade das respostas da IA  
+- Capítulo 4 Design e controle de diálogos multi-turnos  
+- Capítulo 5 Exercícios práticos de projetos com Prompt  
+- Capítulo 6 Caminhos de desenvolvimento profissional e guia para conseguir trabalhos  
+
+Título do Curso: Introdução Rápida à Lei e Conformidade em IA  
+Descrição do Curso: Compreenda os riscos legais e requisitos de conformidade na produção de conteúdo com IA, uso de dados e proteção de direitos autorais.  
+Capítulos:  
+- Capítulo 1 Análise do estado atual dos direitos autorais de conteúdos de IA  
+- Capítulo 2 Proteção de dados pessoais e visão geral do GDPR  
+- Capítulo 3 Limites legais de conteúdos gerados por IA  
+- Capítulo 4 Considerações de conformidade na aplicação de IA pelas empresas  
+- Capítulo 5 Estudo de caso: exemplos de disputas por infração de IA  
+- Capítulo 6 Como elaborar diretrizes de uso conforme para IA  
+
+Título do Curso: Desenvolvimento de Aplicações Educacionais e Assistentes de Aprendizado com IA  
+Descrição do Curso: Explore como criar produtos de educação online com IA, incluindo geração de conteúdo, respostas inteligentes e experiências de aprendizado personalizadas.  
+Capítulos:  
+- Capítulo 1 Cenários de aplicação da IA no campo educacional  
+- Capítulo 2 Automação de geração de conteúdo (apostilas/exercícios/provas)  
+- Capítulo 3 Construção de chatbot de respostas inteligentes (sistema RAG)  
+- Capítulo 4 Algoritmos de recomendação de aprendizado personalizado  
+- Capítulo 5 Guia para lançar aplicações educacionais de pequeno porte  
+- Capítulo 6 Desafio prático: Crie seu primeiro assistente de aprendizado com IA  
+
+Título do Curso: Automação de Escritório com IA: De Relatórios Diários a Geração Automática de Apresentações  
+Descrição do Curso: Domine técnicas práticas de IA para geração e otimização automática de documentos de escritório, processamento de dados e materiais de apresentação.  
+Capítulos:  
+- Capítulo 1 Visão geral da automação de escritório com IA  
+- Capítulo 2 Processamento de relatórios de dados com ChatGPT+Excel  
+- Capítulo 3 Sumário inteligente de relatórios diários e semanais  
+- Capítulo 4 Geração e aprimoramento automático de apresentações (Tome/Beautiful.ai)  
+- Capítulo 5 Processamento em lote e scripts personalizados (Python+IA)  
+- Capítulo 6 Prática de projeto: Configure seu assistente automatizado de escritório  
+
+Título do Curso: Guia de Escrita de Roteiros e Criação de Conteúdo para Curta-metragens com IA  
+Descrição do Curso: Aprenda como gerar rapidamente roteiros de curtas-metragens e esquetes com IA, adaptando-se a novos cenários como vídeos curtos e e-commerce ao vivo.  
+Capítulos:  
+- Capítulo 1 Tendências de conteúdo para curtas-metragens e vídeos curtos  
+- Capítulo 2 Construção eficiente de personagens e enredos com ChatGPT  
+- Capítulo 3 Geração rápida de roteiros de diálogo e orientações de storyboard  
+- Capítulo 4 Produção de storyboards visuais com Midjourney  
+- Capítulo 5 Canais de monetização comercial e blockchain para curtas  
+- Capítulo 6 Prática de projeto: Publique um roteiro original de curta com IA  
+
+Título do Curso: Prática de Redação Publicitária e Criação de Anúncios com IA  
+Descrição do Curso: Domine como gerar em massa textos publicitários de alta conversão, descrições de produtos e ideias criativas de marketing usando IA.  
+Capítulos:  
+- Capítulo 1 Princípios psicológicos da redação publicitária  
+- Capítulo 2 Modelos e aplicações de copywriting com ChatGPT  
+- Capítulo 3 Métodos de teste A/B e otimização de textos  
+- Capítulo 4 Geração de roteiros para anúncios em vídeo curto  
+- Capítulo 5 Design automático de pôsteres e imagens publicitárias com IA  
+- Capítulo 6 Desafio de projeto: Crie um plano completo de marketing com IA  

@@ -12,13 +12,13 @@ const InstructorDetailPage = () => {
   // Mock additional instructor details that might not be in the original data
   const instructorAdditionalInfo = {
     achievements: [
-      "行业10年从业经验",
-      "畅销书作家",
-      "曾服务50+知名企业",
-      "Ted演讲嘉宾"
+      "10 anos de experiência no setor",
+      "Autor de best-sellers",
+      "Já atendeu mais de 50 empresas renomadas",
+      "Palestrante do TED"
     ],
-    background: "拥有丰富的实战与教学经验，专注于将复杂概念简化为易于理解的内容。曾在多家知名企业担任顾问，深入了解行业需求和发展趋势。",
-    education: "北京大学计算机科学硕士",
+    background: "Possui vasta experiência prática e de ensino, focado em simplificar conceitos complexos para torná-los fáceis de entender. Já atuou como consultor em várias empresas renomadas, com profundo conhecimento das demandas e tendências do setor.",
+    education: "Mestre em Ciência da Computação pela Universidade de Pequim",
     social: {
       twitter: "https://twitter.com",
       linkedin: "https://linkedin.com",
@@ -111,21 +111,21 @@ const InstructorDetailPage = () => {
           <div className="grid md:grid-cols-3 gap-8">
             {/* Background */}
             <div className="md:col-span-2">
-              <h2 className="text-2xl font-bold mb-4">专业背景</h2>
+              <h2 className="text-2xl font-bold mb-4">Formação Profissional</h2>
               <p className="text-gray-300 mb-6">{instructorAdditionalInfo.background}</p>
               
-              <h3 className="text-xl font-bold mb-3">教育背景</h3>
+              <h3 className="text-xl font-bold mb-3">Formação Acadêmica</h3>
               <p className="text-gray-300 mb-6">{instructorAdditionalInfo.education}</p>
               
-              <h3 className="text-xl font-bold mb-3">教学理念</h3>
+              <h3 className="text-xl font-bold mb-3">Filosofia de Ensino</h3>
               <p className="text-gray-300">
-                我相信学习是一个实践的过程。我的课程注重理论与实战相结合，帮助学员快速掌握实用技能，并能够立即应用于实际工作中。
+                Acredito que o aprendizado é um processo prático. Meus cursos combinam teoria e prática para ajudar os alunos a dominar rapidamente habilidades úteis e aplicá-las imediatamente no trabalho.
               </p>
             </div>
             
             {/* Achievements */}
             <div>
-              <h2 className="text-2xl font-bold mb-4">成就与专长</h2>
+              <h2 className="text-2xl font-bold mb-4">Conquistas e Especialidades</h2>
               <ul className="space-y-4">
                 {instructorAdditionalInfo.achievements.map((achievement, index) => (
                   <li key={index} className="flex items-start">
@@ -143,7 +143,7 @@ const InstructorDetailPage = () => {
       <div className="bg-gradient-to-b from-black to-gray-900 py-16">
         <div className="container mx-auto px-4 max-w-6xl">
           <h2 className="text-3xl font-bold mb-8 text-center">
-            {instructor.name}的课程 
+            Cursos de {instructor.name}
             <span className="text-yellow-400 ml-2">({instructorCourses.length})</span>
           </h2>
 
@@ -177,9 +177,9 @@ const InstructorDetailPage = () => {
                     
                     <div className="flex justify-between items-center">
                       <span className="text-yellow-400">
-                        {course.chapters?.length || 0} 章节
+                        {course.chapters?.length || 0} Capítulos
                       </span>
-                      <span className="text-gray-400 text-sm">查看课程 →</span>
+                      <span className="text-gray-400 text-sm">Ver curso →</span>
                     </div>
                   </div>
                 </Link>
@@ -187,7 +187,7 @@ const InstructorDetailPage = () => {
             </div>
           ) : (
             <div className="text-center py-12">
-              <p className="text-xl text-gray-400">该讲师暂无课程</p>
+              <p className="text-xl text-gray-400">Este instrutor ainda não possui cursos</p>
             </div>
           )}
         </div>
@@ -203,7 +203,7 @@ const InstructorDetailPage = () => {
             <svg className="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M10 19l-7-7m0 0l7-7m-7 7h18"></path>
             </svg>
-            返回全部讲师
+            Voltar para todos os instrutores
           </Link>
         </div>
       </div>

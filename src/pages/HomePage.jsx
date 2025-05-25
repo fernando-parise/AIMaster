@@ -57,8 +57,8 @@ const HomePage = () => {
     return (
       <div className="flex justify-center items-center h-screen bg-black">
         <div className="text-white text-center">
-          <h2 className="text-2xl font-bold mb-2">加载失败</h2>
-          <p className="text-gray-400">无法加载课程数据，请稍后重试。</p>
+          <h2 className="text-2xl font-bold mb-2">Falha ao carregar</h2>
+          <p className="text-gray-400">Não foi possível carregar os dados do curso, por favor tente novamente mais tarde.</p>
         </div>
       </div>
     );
@@ -90,7 +90,7 @@ const HomePage = () => {
                   className="w-12 h-12 rounded-full object-cover mr-4"
                 />
                 <div>
-                  <span className="text-sm uppercase tracking-widest text-gray-300">由行业顶尖专家讲授</span>
+                  <span className="text-sm uppercase tracking-widest text-gray-300">Ensinado por especialista da indústria</span>
                   <h3 className="text-lg font-medium">{featuredCourses[currentHeroIndex].instructor.name}</h3>
                 </div>
               </div>
@@ -108,13 +108,13 @@ const HomePage = () => {
                   to={`/course/${featuredCourses[currentHeroIndex].id}`}
                   className="bg-white text-black px-8 py-3 text-lg font-medium rounded hover:bg-gray-200 transition-colors"
                 >
-                  了解详情
+                  Ver Detalhes
                 </Link>
                 <Link 
                   to="/subscription"
                   className="border border-white px-8 py-3 text-lg font-medium rounded hover:bg-white hover:text-black transition-colors"
                 >
-                  立即订阅
+                  Assinar Agora
                 </Link>
               </div>
             </div>
@@ -130,7 +130,7 @@ const HomePage = () => {
                       className={`h-1 transition-all ${
                         idx === currentHeroIndex ? "bg-white w-8" : "bg-gray-600 w-4"
                       }`}
-                      aria-label={`Go to slide ${idx + 1}`}
+                      aria-label={`Ir para slide ${idx + 1}`}
                     />
                   ))}
                 </div>
@@ -145,14 +145,14 @@ const HomePage = () => {
         <div className="container mx-auto px-4 md:px-6">
           <header className="flex justify-between items-end mb-12">
             <div>
-              <h2 className="text-3xl md:text-4xl font-bold mb-3">精选课程</h2>
-              <p className="text-gray-400 max-w-2xl">由行业专家亲授的高质量课程，帮助你掌握实用技能</p>
+              <h2 className="text-3xl md:text-4xl font-bold mb-3">Cursos em Destaque</h2>
+              <p className="text-gray-400 max-w-2xl">Cursos de alta qualidade ministrados por especialistas para te ajudar a dominar habilidades práticas.</p>
             </div>
             <Link 
               to="/courses"
               className="hidden md:flex items-center text-sm font-medium"
             >
-              查看全部课程
+              Ver Todos os Cursos
               <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4 ml-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
               </svg>
@@ -234,7 +234,7 @@ const HomePage = () => {
               to="/courses"
               className="md:hidden bg-transparent border border-white px-6 py-2 rounded text-sm font-medium hover:bg-white hover:text-black transition-colors"
             >
-              查看全部课程
+              Ver Todos os Cursos
             </Link>
           </div>
         </div>
@@ -244,8 +244,8 @@ const HomePage = () => {
       <section className="py-20 bg-zinc-900">
         <div className="container mx-auto px-4 md:px-6">
           <header className="text-center max-w-2xl mx-auto mb-12">
-            <h2 className="text-3xl md:text-4xl font-bold mb-4">按类别浏览</h2>
-            <p className="text-gray-400">探索各个领域的精选课程，找到适合你的学习路径</p>
+            <h2 className="text-3xl md:text-4xl font-bold mb-4">Navegar por Categorias</h2>
+            <p className="text-gray-400">Explore cursos selecionados de diversas áreas e encontre o caminho certo para seus estudos.</p>
           </header>
 
           <div className="grid grid-cols-2 md:grid-cols-3 gap-4">
@@ -256,7 +256,7 @@ const HomePage = () => {
                 className="bg-zinc-800 hover:bg-zinc-700 transition-colors rounded-lg p-6 text-center"
               >
                 <h3 className="font-bold text-lg mb-2">{category.name}</h3>
-                <p className="text-gray-400 text-sm">{category.count} 门课程</p>
+                <p className="text-gray-400 text-sm">{category.count} Cursos</p>
               </Link>
             ))}
           </div>
@@ -267,22 +267,22 @@ const HomePage = () => {
       <section className="py-20 bg-gradient-to-r from-gray-900 to-black">
         <div className="container mx-auto px-4 md:px-6">
           <div className="max-w-4xl mx-auto text-center">
-            <h2 className="text-3xl md:text-5xl font-bold mb-6">开始你的学习之旅</h2>
+            <h2 className="text-3xl md:text-5xl font-bold mb-6">Comece sua Jornada de Aprendizado</h2>
             <p className="text-xl text-gray-300 mb-8 max-w-2xl mx-auto">
-              订阅我们的平台，解锁所有高质量课程，随时随地学习，提升你的技能
+              Assine nossa plataforma para desbloquear todos os cursos de alta qualidade e aprenda a qualquer hora, em qualquer lugar.
             </p>
             <div className="flex flex-col sm:flex-row justify-center gap-4">
               <Link
                 to="/subscription"
                 className="bg-white text-black px-8 py-3 text-lg font-medium rounded hover:bg-gray-200 transition-colors"
               >
-                立即订阅
+                Assinar Agora
               </Link>
               <Link
                 to="/courses"
                 className="border border-white px-8 py-3 text-lg font-medium rounded hover:bg-white hover:text-black transition-colors"
               >
-                浏览课程
+                Ver Cursos
               </Link>
             </div>
           </div>

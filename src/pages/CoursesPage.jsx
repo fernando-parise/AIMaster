@@ -19,7 +19,7 @@ const CoursesPage = () => {
   const { courses, loading, error } = useCourses(filters);
   
   // Available filter options
-  const levelOptions = ['基础', '中级', '高级'];
+  const levelOptions = ['Básico', 'Intermediário', 'Avançado'];
   
   // Extract unique categories from courses
   const [categories, setCategories] = useState([]);
@@ -75,8 +75,8 @@ const CoursesPage = () => {
       <div className="container mx-auto px-4 md:px-6">
         {/* Header */}
         <div className="mb-8">
-          <h1 className="text-3xl md:text-4xl font-bold mb-4">探索全部课程</h1>
-          <p className="text-xl text-gray-300">由行业顶尖专家讲授的高质量在线课程</p>
+          <h1 className="text-3xl md:text-4xl font-bold mb-4">Explorar todos os cursos</h1>
+          <p className="text-xl text-gray-300">Cursos online de alta qualidade ministrados por especialistas líderes do setor</p>
         </div>
         
         {/* Search and Filters */}
@@ -87,7 +87,7 @@ const CoursesPage = () => {
               <form onSubmit={handleSearchSubmit} className="relative">
                 <input
                   type="text"
-                  placeholder="搜索课程..."
+                  placeholder="Pesquisar Curso..."
                   className="w-full bg-zinc-900 border border-zinc-700 rounded-lg py-3 px-4 pr-10 text-white focus:outline-none focus:border-white"
                   value={filters.search}
                   onChange={handleSearchChange}
@@ -110,10 +110,10 @@ const CoursesPage = () => {
                 value={filters.sortBy}
                 onChange={(e) => handleFilterChange('sortBy', e.target.value)}
               >
-                <option value="popular">最受欢迎</option>
-                <option value="newest">最新上线</option>
-                <option value="price-low">价格从低到高</option>
-                <option value="price-high">价格从高到低</option>
+                <option value="popular">Mais popular</option>
+                <option value="newest">Mais recentes</option>
+                <option value="price-low">Preço do menor para o maior</option>
+                <option value="price-high">Preço do maior para o menor</option>
               </select>
             </div>
             
@@ -132,11 +132,11 @@ const CoursesPage = () => {
           {/* Active filters */}
           {(filters.category || filters.level || filters.search) && (
             <div className="flex flex-wrap items-center mt-4 gap-2">
-              <span className="text-sm text-gray-400">活跃筛选：</span>
+              <span className="text-sm text-gray-400">Filtros ativos:</span>
               
               {filters.search && (
                 <span className="bg-zinc-800 text-white text-sm rounded-full px-3 py-1 flex items-center">
-                  搜索: {filters.search}
+                  Busca: {filters.search}
                   <button 
                     onClick={() => handleFilterChange('search', '')}
                     className="ml-2 text-gray-400 hover:text-white"
@@ -150,7 +150,7 @@ const CoursesPage = () => {
               
               {filters.category && (
                 <span className="bg-zinc-800 text-white text-sm rounded-full px-3 py-1 flex items-center">
-                  分类: {filters.category}
+                  Categoria: {filters.category}
                   <button 
                     onClick={() => handleFilterChange('category', '')}
                     className="ml-2 text-gray-400 hover:text-white"
@@ -164,7 +164,7 @@ const CoursesPage = () => {
               
               {filters.level && (
                 <span className="bg-zinc-800 text-white text-sm rounded-full px-3 py-1 flex items-center">
-                  难度: {filters.level}
+                  Nível: {filters.level}
                   <button 
                     onClick={() => handleFilterChange('level', '')}
                     className="ml-2 text-gray-400 hover:text-white"
@@ -180,7 +180,7 @@ const CoursesPage = () => {
                 onClick={clearFilters}
                 className="text-sm text-gray-400 hover:text-white ml-2"
               >
-                清除全部
+                Limpar tudo
               </button>
             </div>
           )}
@@ -188,7 +188,7 @@ const CoursesPage = () => {
           {/* Mobile filter menu */}
           {isFilterMenuOpen && (
             <div className="mt-4 p-4 bg-zinc-900 rounded-lg border border-zinc-700 md:hidden">
-              <h3 className="font-medium mb-3">课程难度</h3>
+              <h3 className="font-medium mb-3">Nível do Curso</h3>
               <div className="flex flex-wrap gap-2 mb-4">
                 {levelOptions.map((level) => (
                   <button
@@ -205,7 +205,7 @@ const CoursesPage = () => {
                 ))}
               </div>
               
-              <h3 className="font-medium mb-3">课程分类</h3>
+              <h3 className="font-medium mb-3">Categoria do Curso</h3>
               <div className="flex flex-wrap gap-2">
                 {categories.slice(0, 10).map((category) => (
                   <button
@@ -231,7 +231,7 @@ const CoursesPage = () => {
           <div className="hidden md:block w-64 flex-shrink-0">
             <div className="sticky top-24 space-y-8">
               <div>
-                <h3 className="font-medium text-lg mb-4">课程难度</h3>
+                <h3 className="font-medium text-lg mb-4">Nível do Curso</h3>
                 <div className="space-y-2">
                   {levelOptions.map((level) => (
                     <button
@@ -250,7 +250,7 @@ const CoursesPage = () => {
               </div>
               
               <div>
-                <h3 className="font-medium text-lg mb-4">课程分类</h3>
+                <h3 className="font-medium text-lg mb-4">Categoria do Curso</h3>
                 <div className="space-y-2 max-h-80 overflow-y-auto pr-2">
                   {categories.map((category) => (
                     <button
@@ -279,19 +279,19 @@ const CoursesPage = () => {
             ) : error ? (
               <div className="flex justify-center items-center h-64">
                 <div className="text-center">
-                  <h2 className="text-xl font-medium mb-2">加载失败</h2>
+                  <h2 className="text-xl font-medium mb-2">Falha ao carregar</h2>
                   <p className="text-gray-400 mb-4">{error}</p>
                   <button 
                     onClick={() => window.location.reload()}
                     className="bg-white text-black px-4 py-2 rounded"
                   >
-                    重试
+                    Tentar novamente
                   </button>
                 </div>
               </div>
             ) : courses && courses.length > 0 ? (
               <div>
-                <p className="mb-6 text-gray-400">显示 {courses.length} 个课程结果</p>
+                <p className="mb-6 text-gray-400">Mostrando {courses.length} resultados de Cursos</p>
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
                   {courses.map((course) => (
                     <Link 
@@ -366,15 +366,15 @@ const CoursesPage = () => {
                 <svg xmlns="http://www.w3.org/2000/svg" className="h-16 w-16 text-gray-600 mb-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M9.172 16.172a4 4 0 015.656 0M9 10h.01M15 10h.01M12 14h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
                 </svg>
-                <h3 className="text-xl font-medium mb-2">未找到课程</h3>
+                <h3 className="text-xl font-medium mb-2">Nenhum Curso encontrado</h3>
                 <p className="text-gray-400 mb-6 max-w-md">
-                  没有符合当前筛选条件的课程。请尝试调整你的搜索条件或者清除筛选器。
+                  Nenhum curso corresponde aos filtros atuais. Tente ajustar sua busca ou limpar os filtros.
                 </p>
                 <button 
                   onClick={clearFilters}
                   className="bg-white text-black px-5 py-2 rounded font-medium hover:bg-gray-200 transition-colors"
                 >
-                  清除筛选条件
+                  Limpar filtros
                 </button>
               </div>
             )}

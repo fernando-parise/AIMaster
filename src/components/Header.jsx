@@ -7,10 +7,10 @@ const Header = () => {
   const location = useLocation();
 
   const navItems = [
-    { name: '首页', path: '/' },
-    { name: '全部课程', path: '/courses' },
-    { name: '讲师', path: '/instructors' },
-    { name: '会员订阅', path: '/subscription' }
+    { name: 'Início', path: '/' },
+    { name: 'Todos os Cursos', path: '/courses' },
+    { name: 'Instrutores', path: '/instructors' },
+    { name: 'Assinatura', path: '/subscription' }
   ];
 
   // Detect scroll for header appearance change
@@ -47,7 +47,7 @@ const Header = () => {
             AIMASTER
           </span>
           <span className="text-xs text-gray-400 tracking-widest hidden md:inline-block">
-            在线课程
+            Cursos Online
           </span>
         </Link>
 
@@ -74,13 +74,13 @@ const Header = () => {
             to="/login" 
             className="text-sm tracking-wider text-gray-300 hover:text-white transition-colors"
           >
-            登录
+            Entrar
           </Link>
           <Link 
             to="/signup" 
             className="text-sm tracking-wider bg-white text-black px-5 py-2 rounded hover:bg-gray-200 transition-colors"
           >
-            免费试用
+            Teste Grátis
           </Link>
         </div>
 
@@ -124,13 +124,13 @@ const Header = () => {
                   to="/login" 
                   className="text-sm tracking-wider text-gray-300 hover:text-white transition-colors"
                 >
-                  登录
+                  Entrar
                 </Link>
                 <Link 
                   to="/signup" 
                   className="text-sm tracking-wider bg-white text-black py-2 text-center rounded hover:bg-gray-200 transition-colors"
                 >
-                  免费试用
+                  Teste Grátis
                 </Link>
               </div>
             </nav>
