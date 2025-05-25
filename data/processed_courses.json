@@ -1,0 +1,1056 @@
+[
+  {
+    "id": 1,
+    "title": "Crie sua Marca Pessoal Rapidamente com IA",
+    "description": "Aprenda como usar ferramentas de IA para construir sua marca pessoal de forma eficiente, desde a criação do avatar até a produção de conteúdo, moldando uma imagem profissional com facilidade.",
+    "chapters": [
+      "Capítulo 1 O que é a junção de marca pessoal e IA?",
+      "Capítulo 2 Criando um avatar de alta qualidade com Midjourney",
+      "Capítulo 3 ChatGPT ajudando a escrever sua apresentação pessoal e história",
+      "Capítulo 4 Conteúdo para mídias sociais com Canva+IA",
+      "Capítulo 5 Crie seu site pessoal rapidamente (zero código)",
+      "Capítulo 6 Projeto prático: crie seu primeiro case de marca pessoal com IA"
+    ],
+    "level": "Básico",
+    "instructor": {
+      "name": "Li Mingyuan",
+      "bio": "Especialista em aplicações de IA, 10 anos de experiência em produtos de internet, focado em pesquisas de IA + marca pessoal",
+      "avatar": "/images/instructors/instructor_1.jpg"
+    },
+    "cover_image": "/images/courses/course_1.jpg",
+    "duration": "12 horas",
+    "students_enrolled": 100,
+    "rating": 4.5,
+    "category": "Marketing Digital",
+    "slug": "crie-sua-marca-pessoal-rapidamente-com-ia",
+    "teaser": "Aprenda como usar ferramentas de IA para construir sua marca pessoal de forma eficiente, desde a criação do avatar até a produção de conteúdo, moldando uma imagem profissional com facilidade...",
+    "featured": true,
+    "difficulty": "Nível Básico",
+    "completion_time": "17 dias",
+    "what_youll_learn": [
+      "Domine as principais habilidades e fluxos de trabalho para criar rapidamente uma marca pessoal com IA",
+      "Do zero até a realização independente de projetos de marketing digital",
+      "Obtenha insights e experiência prática de ponta do setor",
+      "Construa sua própria metodologia de trabalho com IA"
+    ],
+    "testimonials": [
+      {
+        "name": "Li Xiaohua",
+        "job": "Gerente de Produto",
+        "comment": "Este curso de criação de marca pessoal com IA é excelente! Encontrei uma nova direção profissional, muito prático.",
+        "avatar": "/images/testimonials/user_1.jpg",
+        "rating": 5
+      },
+      {
+        "name": "Wang Jianming",
+        "job": "Freelancer",
+        "comment": "Este curso de criação de marca pessoal com IA é excelente! Minha eficiência triplicou, vale cada centavo.",
+        "avatar": "/images/testimonials/user_2.jpg",
+        "rating": 4
+      }
+    ],
+    "pricing": {
+      "original": 399,
+      "current": 299,
+      "discount_percent": 25
+    },
+    "trailer_video": "/videos/courses/course_1_trailer.mp4",
+    "skill_tags": [
+      "Marketing de Conteúdo",
+      "Mídias Sociais",
+      "Criação Publicitária"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Técnicas Práticas de IA em Operação de E-commerce",
+    "description": "Domine como usar ferramentas de IA para aumentar a eficiência da loja virtual, incluindo descrição de produtos, textos publicitários e automação no atendimento ao cliente.",
+    "chapters": [
+      "Capítulo 1 O que a IA pode fazer na operação de e-commerce?",
+      "Capítulo 2 Geração em massa de títulos e descrições de produtos com ChatGPT",
+      "Capítulo 3 Edição rápida de vídeos curtos de produtos com Pictory",
+      "Capítulo 4 Implementação prática de atendimento automatizado com IA",
+      "Capítulo 5 Análise de dados e auxílio na escolha de produtos",
+      "Capítulo 6 Projeto prático: crie uma página de produto campeã com IA"
+    ],
+    "level": "Básico",
+    "instructor": {
+      "name": "Wang Zhiqiang",
+      "bio": "Ex-diretor técnico de grande empresa, especialista prático em desenvolvimento de IA, domina simplificar e implementar tecnologias complexas",
+      "avatar": "/images/instructors/instructor_2.jpg"
+    },
+    "cover_image": "/images/courses/course_2.jpg",
+    "duration": "12 horas",
+    "students_enrolled": 150,
+    "rating": 4.5,
+    "category": "Marketing Digital",
+    "slug": "tecnicas-praticas-de-ia-em-operacao-de-ecommerce",
+    "teaser": "Domine como usar ferramentas de IA para aumentar a eficiência da loja virtual, incluindo descrição de produtos, textos publicitários e automação no atendimento ao cliente...",
+    "featured": false,
+    "difficulty": "Nível Básico",
+    "completion_time": "17 dias",
+    "what_youll_learn": [
+      "Domine as principais habilidades e fluxos de trabalho das técnicas",
+      "Do zero até a realização independente de projetos de marketing digital",
+      "Obtenha insights e experiência prática de ponta do setor",
+      "Construa sua própria metodologia de trabalho com IA"
+    ],
+    "testimonials": [
+      {
+        "name": "Wang Jianming",
+        "job": "Freelancer",
+        "comment": "Este curso de técnicas práticas de IA no e-commerce é excelente! Minha eficiência triplicou, muito prático.",
+        "avatar": "/images/testimonials/user_2.jpg",
+        "rating": 4
+      },
+      {
+        "name": "Zhang Siqi",
+        "job": "Criadora de Conteúdo",
+        "comment": "Este curso de técnicas práticas de IA no e-commerce é excelente! Resolveu um problema que me incomodava há muito tempo, vale cada centavo.",
+        "avatar": "/images/testimonials/user_3.jpg",
+        "rating": 4
+      }
+    ],
+    "pricing": {
+      "original": 499,
+      "current": 399,
+      "discount_percent": 0
+    },
+    "trailer_video": "/videos/courses/course_2_trailer.mp4",
+    "skill_tags": [
+      "Marketing de Conteúdo",
+      "Mídias Sociais",
+      "Criação Publicitária"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Criação de Vídeos Curtos com IA para Iniciantes",
+    "description": "Sem experiência em gravação, aprenda a usar IA para criar rapidamente vídeos curtos de sucesso, aplicável para TikTok, Xiaohongshu, Instagram e outras plataformas.",
+    "chapters": [
+      "Capítulo 1 Tendências de vídeos curtos e aplicação de IA",
+      "Capítulo 2 Geração de vídeos curtos a partir de texto (ferramentas como Runway, Pika, etc.)",
+      "Capítulo 3 Narração automática e adição de legendas",
+      "Capítulo 4 Criação rápida de capa e título de vídeo",
+      "Capítulo 5 Publicação em múltiplas plataformas e obtenção de audiência",
+      "Capítulo 6 Projeto prático: produza seu primeiro vídeo curto com IA"
+    ],
+    "level": "Básico",
+    "instructor": {
+      "name": "Zhang Tianqi",
+      "bio": "Criadora de conteúdo experiente, especialista em aplicações criativas de IA, já ajudou centenas de empresas a implementar IA",
+      "avatar": "/images/instructors/instructor_3.jpg"
+    },
+    "cover_image": "/images/courses/course_3.jpg",
+    "duration": "12 horas",
+    "students_enrolled": 200,
+    "rating": 4.6,
+    "category": "Criação de Conteúdo",
+    "slug": "criacao-de-videos-curtos-com-ia-para-iniciantes",
+    "teaser": "Sem experiência em gravação, aprenda a usar IA para criar rapidamente vídeos curtos de sucesso, aplicável para TikTok, Xiaohongshu, Instagram e outras plataformas...",
+    "featured": false,
+    "difficulty": "Nível Básico",
+    "completion_time": "17 dias",
+    "what_youll_learn": [
+      "Domine as principais habilidades e fluxos de trabalho para criar vídeos curtos com IA",
+      "Do zero até a realização independente de projetos reais de criação de conteúdo",
+      "Obtenha insights e experiência prática de ponta do setor",
+      "Construa sua própria metodologia de trabalho com IA"
+    ],
+    "testimonials": [
+      {
+        "name": "Zhang Siqi",
+        "job": "Criadora de Conteúdo",
+        "comment": "Este curso de criação de vídeos curtos com IA para iniciantes é excelente! Resolveu um problema que me incomodava há muito tempo, muito prático.",
+        "avatar": "/images/testimonials/user_3.jpg",
+        "rating": 4
+      },
+      {
+        "name": "Zhao Yunfeng",
+        "job": "Marketing",
+        "comment": "Este curso de criação de vídeos curtos com IA para iniciantes é excelente! Aprendi habilidades realmente úteis, vale cada centavo.",
+        "avatar": "/images/testimonials/user_4.jpg",
+        "rating": 5
+      }
+    ],
+    "pricing": {
+      "original": 599,
+      "current": 499,
+      "discount_percent": 0
+    },
+    "trailer_video": "/videos/courses/course_3_trailer.mp4",
+    "skill_tags": [
+      "Redação Criativa",
+      "Geração de Conteúdo com IA",
+      "Design Visual"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Guia para Aumentar a Produtividade no Trabalho com ChatGPT",
+    "description": "Aprenda de forma sistemática como usar o ChatGPT para aumentar a produtividade no trabalho diário, incluindo escrita, resumos, organização de ideias e gestão de projetos.",
+    "chapters": [
+      "Capítulo 1 Aplicações do ChatGPT em ambientes de trabalho",
+      "Capítulo 2 Geração automática de documentos de trabalho",
+      "Capítulo 3 Planejamento de projetos e brainstorming",
+      "Capítulo 4 Automação de e-mails, relatórios e resumos",
+      "Capítulo 5 Aperfeiçoe suas habilidades de Prompt",
+      "Capítulo 6 Crie seu próprio fluxo de trabalho com IA"
+    ],
+    "level": "Básico",
+    "instructor": {
+      "name": "Chen Siyuan",
+      "bio": "Especialista em operação de e-commerce, domina estratégias de marketing com IA, autor de 'Aplicações Comerciais de IA'",
+      "avatar": "/images/instructors/instructor_4.jpg"
+    },
+    "cover_image": "/images/courses/course_4.jpg",
+    "duration": "12 horas",
+    "students_enrolled": 250,
+    "rating": 4.7,
+    "category": "Aplicação de Ferramentas de IA",
+    "slug": "guia-produto-chatgpt",
+    "teaser": "Aprenda de forma sistemática como usar o ChatGPT para aumentar a produtividade no trabalho diário, incluindo escrita, resumos, organização de ideias e gestão de projetos...",
+    "featured": false,
+    "difficulty": "Nível Básico",
+    "completion_time": "17 dias",
+    "what_youll_learn": [
+      "Domine as principais habilidades e fluxos de trabalho para aumentar a produtividade no trabalho com ChatGPT",
+      "Do zero até a realização independente de projetos práticos com ferramentas de IA",
+      "Obtenha insights e experiência prática de ponta do setor",
+      "Construa sua própria metodologia de trabalho com IA"
+    ],
+    "testimonials": [
+      {
+        "name": "Zhao Yunfeng",
+        "job": "Marketing",
+        "comment": "Este curso Guia para Aumentar a Produtividade no Trabalho com ChatGPT é excelente! Aprendi habilidades realmente úteis, muito prático.",
+        "avatar": "/images/testimonials/user_4.jpg",
+        "rating": 5
+      },
+      {
+        "name": "Chen Mingliang",
+        "job": "Engenheiro de Software",
+        "comment": "Este curso Guia para Aumentar a Produtividade no Trabalho com ChatGPT é excelente! Ampliou minha visão sobre aplicações de IA, vale cada centavo.",
+        "avatar": "/images/testimonials/user_5.jpg",
+        "rating": 4
+      }
+    ],
+    "pricing": {
+      "original": 699,
+      "current": 599,
+      "discount_percent": 25
+    },
+    "trailer_video": "/videos/courses/course_4_trailer.mp4",
+    "skill_tags": [
+      "Prompt Engineering",
+      "Grandes Modelos de Linguagem",
+      "Construção de Base de Conhecimento"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Tornando-se Freelancer com IA: Comece Sua Renda Extra",
+    "description": "Descubra como utilizar ferramentas de IA para começar sua carreira como freelancer, desde redação e tradução até design de imagens.",
+    "chapters": [
+      "Capítulo 1 Novas tendências do trabalho freelancer em 2025",
+      "Capítulo 2 Redação com IA e marketing de conteúdo",
+      "Capítulo 3 Tradução com IA e localização",
+      "Capítulo 4 Geração e edição de imagens com IA",
+      "Capítulo 5 Prática em Fiverr/Upwork: conquistando clientes",
+      "Capítulo 6 Desafio prático: publique seu primeiro projeto freelancer"
+    ],
+    "level": "Básico",
+    "instructor": {
+      "name": "Lin Yuqing",
+      "bio": "Especialista em produtividade no trabalho, referência em integração de ferramentas de IA, instrutora corporativa em IA",
+      "avatar": "/images/instructors/instructor_5.jpg"
+    },
+    "cover_image": "/images/courses/course_5.jpg",
+    "duration": "12 horas",
+    "students_enrolled": 300,
+    "rating": 4.7,
+    "category": "Desenvolvimento Profissional",
+    "slug": "tornando-se-freelancer-com-ia",
+    "teaser": "Descubra como utilizar ferramentas de IA para começar sua carreira como freelancer, desde redação e tradução até design de imagens...",
+    "featured": true,
+    "difficulty": "Nível Básico",
+    "completion_time": "17 dias",
+    "what_youll_learn": [
+      "Domine as principais habilidades e fluxos de trabalho para ser freelancer com IA e iniciar sua renda extra",
+      "Do zero até a realização independente de projetos práticos para desenvolvimento profissional",
+      "Obtenha insights e experiência prática de ponta do setor",
+      "Construa sua própria metodologia de trabalho com IA"
+    ],
+    "testimonials": [
+      {
+        "name": "Chen Mingliang",
+        "job": "Engenheiro de Software",
+        "comment": "Este curso 'Tornando-se Freelancer com IA: Comece Sua Renda Extra' é excelente! Ampliou minha visão sobre aplicações de IA, muito prático.",
+        "avatar": "/images/testimonials/user_5.jpg",
+        "rating": 4
+      },
+      {
+        "name": "Lin Xiaoman",
+        "job": "Empresária",
+        "comment": "Este curso 'Tornando-se Freelancer com IA: Comece Sua Renda Extra' é excelente! Encontrei uma nova direção profissional, vale cada centavo.",
+        "avatar": "/images/testimonials/user_6.jpg",
+        "rating": 4
+      }
+    ],
+    "pricing": {
+      "original": 799,
+      "current": 699,
+      "discount_percent": 0
+    },
+    "trailer_video": "/videos/courses/course_5_trailer.mp4",
+    "skill_tags": [
+      "Desenvolvimento de Habilidades",
+      "Marca Pessoal",
+      "Freelancer"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Desenvolvendo uma Empresa de Uma Pessoa com IA",
+    "description": "Desde a concepção até a entrega do produto, aprenda a gerenciar sozinho todas as etapas de design, desenvolvimento, operação e atendimento ao cliente usando IA.",
+    "chapters": [
+      "Capítulo 1 O que é uma empresa de uma pessoa com IA",
+      "Capítulo 2 Ideação do produto e validação de requisitos (com GPT/Claude)",
+      "Capítulo 3 Construção com ferramentas no-code (Bubble, Softr)",
+      "Capítulo 4 Atendimento ao cliente com IA e marketing automatizado",
+      "Capítulo 5 Estratégias de crescimento e divulgação de baixo custo",
+      "Capítulo 6 Caso prático: colocando uma empresa de uma pessoa no ar"
+    ],
+    "level": "Intermediário",
+    "instructor": {
+      "name": "Li Mingyuan",
+      "bio": "Especialista em aplicações de IA, 10 anos de experiência em produtos de internet, focado em pesquisas de IA + marca pessoal",
+      "avatar": "/images/instructors/instructor_1.jpg"
+    },
+    "cover_image": "/images/courses/course_6.jpg",
+    "duration": "12 horas",
+    "students_enrolled": 350,
+    "rating": 4.8,
+    "category": "Desenvolvimento de Aplicativos",
+    "slug": "desenvolvendo-uma-empresa-de-uma-pessoa-com-ia",
+    "teaser": "Desde a concepção até a entrega do produto, aprenda a gerenciar sozinho todas as etapas de design, desenvolvimento, operação e atendimento ao cliente usando IA...",
+    "featured": false,
+    "difficulty": "Nível Intermediário",
+    "completion_time": "17 dias",
+    "what_youll_learn": [
+      "Domine as principais habilidades e fluxos de trabalho para desenvolver uma empresa de uma pessoa com IA",
+      "Do zero até a realização independente de projetos práticos de desenvolvimento de aplicativos",
+      "Obtenha insights e experiência prática de ponta do setor",
+      "Construa sua própria metodologia de trabalho com IA"
+    ],
+    "testimonials": [
+      {
+        "name": "Lin Xiaoman",
+        "job": "Empresária",
+        "comment": "Este curso 'Desenvolvendo uma Empresa de Uma Pessoa com IA' é excelente! Encontrei uma nova direção profissional, muito prático.",
+        "avatar": "/images/testimonials/user_6.jpg",
+        "rating": 4
+      },
+      {
+        "name": "Guo Zhiqiang",
+        "job": "Professor Universitário",
+        "comment": "Este curso 'Desenvolvendo uma Empresa de Uma Pessoa com IA' é excelente! Minha eficiência triplicou, vale cada centavo.",
+        "avatar": "/images/testimonials/user_7.jpg",
+        "rating": 5
+      }
+    ],
+    "pricing": {
+      "original": 399,
+      "current": 299,
+      "discount_percent": 0
+    },
+    "trailer_video": "/videos/courses/course_6_trailer.mp4",
+    "skill_tags": [
+      "Desenvolvimento Sem Código",
+      "Integração de API",
+      "Experiência do Usuário"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Criando Aplicações SaaS Verticais com IA",
+    "description": "Aprenda como construir rapidamente aplicações SaaS enxutas e elegantes usando IA, explorando todo o fluxo desde o desenvolvimento até a monetização.",
+    "chapters": [
+      "Capítulo 1 O que é SaaS Vertical + IA",
+      "Capítulo 2 Geração rápida de protótipos de produtos",
+      "Capítulo 3 Construção de back-end com auxílio de IA",
+      "Capítulo 4 Sistema de pagamento e gestão de assinaturas",
+      "Capítulo 5 Estratégias de crescimento e retenção de usuários",
+      "Capítulo 6 Projeto prático: publique sua primeira aplicação SaaS com IA"
+    ],
+    "level": "Intermediário",
+    "instructor": {
+      "name": "Wang Zhiqiang",
+      "bio": "Ex-diretor técnico de grande empresa, especialista prático em desenvolvimento de IA, domina simplificar e implementar tecnologias complexas",
+      "avatar": "/images/instructors/instructor_2.jpg"
+    },
+    "cover_image": "/images/courses/course_7.jpg",
+    "duration": "12 horas",
+    "students_enrolled": 400,
+    "rating": 4.8,
+    "category": "Desenvolvimento de Aplicativos",
+    "slug": "criando-aplicacoes-saas-verticais-com-ia",
+    "teaser": "Aprenda como construir rapidamente aplicações SaaS enxutas e elegantes usando IA, explorando todo o fluxo desde o desenvolvimento até a monetização...",
+    "featured": false,
+    "difficulty": "Nível Intermediário",
+    "completion_time": "17 dias",
+    "what_youll_learn": [
+      "Domine as principais habilidades e fluxos de trabalho",
+      "Do zero até a realização independente de projetos práticos de desenvolvimento de aplicativos",
+      "Obtenha insights e experiência prática de ponta do setor",
+      "Construa sua própria metodologia de trabalho com IA"
+    ],
+    "testimonials": [
+      {
+        "name": "Guo Zhiqiang",
+        "job": "Professor Universitário",
+        "comment": "Este curso 'Criando Aplicações SaaS Verticais com IA' é excelente! Minha eficiência triplicou, muito prático.",
+        "avatar": "/images/testimonials/user_7.jpg",
+        "rating": 5
+      },
+      {
+        "name": "Huang Jianguo",
+        "job": "Designer",
+        "comment": "Este curso 'Criando Aplicações SaaS Verticais com IA' é excelente! Resolveu um problema que me incomodava há muito tempo, vale cada centavo.",
+        "avatar": "/images/testimonials/user_8.jpg",
+        "rating": 4
+      }
+    ],
+    "pricing": {
+      "original": 499,
+      "current": 399,
+      "discount_percent": 25
+    },
+    "trailer_video": "/videos/courses/course_7_trailer.mp4",
+    "skill_tags": [
+      "Desenvolvimento Sem Código",
+      "Integração de API",
+      "Experiência do Usuário"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Guia de Treinamento de Assistentes Inteligentes com IA do Zero ao Avançado",
+    "description": "Aprenda a treinar e personalizar seu próprio assistente inteligente, cobrindo engenharia de prompt, construção de base de conhecimento e ajuste fino para implantação.",
+    "chapters": [
+      "Capítulo 1 Compreendendo o funcionamento dos assistentes inteligentes",
+      "Capítulo 2 Técnicas avançadas de design de Prompt",
+      "Capítulo 3 Construção de base de conhecimento privada (usando LlamaIndex/Chroma)",
+      "Capítulo 4 Ajuste fino de grandes modelos",
+      "Capítulo 5 Implantação local e proteção de privacidade",
+      "Capítulo 6 Desafio prático: treine e publique seu próprio assistente inteligente"
+    ],
+    "level": "Intermediário",
+    "instructor": {
+      "name": "Zhang Tianqi",
+      "bio": "Criadora de conteúdo experiente, especialista em aplicações criativas de IA, já ajudou centenas de empresas a implementar IA",
+      "avatar": "/images/instructors/instructor_3.jpg"
+    },
+    "cover_image": "/images/courses/course_8.jpg",
+    "duration": "12 horas",
+    "students_enrolled": 450,
+    "rating": 4.8,
+    "category": "Aplicação de Ferramentas de IA",
+    "slug": "guia-treinamento-assistente-ia",
+    "teaser": "Aprenda a treinar e personalizar seu próprio assistente inteligente, cobrindo engenharia de prompt, construção de base de conhecimento e ajuste fino para implantação...",
+    "featured": true,
+    "difficulty": "Nível Intermediário",
+    "completion_time": "17 dias",
+    "what_youll_learn": [
+      "Domine as principais habilidades e fluxos de trabalho do Guia de Treinamento de Assistentes Inteligentes com IA",
+      "Do zero até a realização independente de projetos práticos com ferramentas de IA",
+      "Obtenha insights e experiência prática de ponta do setor",
+      "Construa sua própria metodologia de trabalho com IA"
+    ],
+    "testimonials": [
+      {
+        "name": "Huang Jianguo",
+        "job": "Designer",
+        "comment": "Este curso 'Guia de Treinamento de Assistentes Inteligentes com IA do Zero ao Avançado' é excelente! Resolveu um problema que me incomodava há muito tempo, muito prático.",
+        "avatar": "/images/testimonials/user_8.jpg",
+        "rating": 4
+      },
+      {
+        "name": "Li Xiaohua",
+        "job": "Gerente de Produto",
+        "comment": "Este curso 'Guia de Treinamento de Assistentes Inteligentes com IA do Zero ao Avançado' é excelente! Encontrei uma nova direção profissional, vale cada centavo.",
+        "avatar": "/images/testimonials/user_1.jpg",
+        "rating": 5
+      }
+    ],
+    "pricing": {
+      "original": 599,
+      "current": 499,
+      "discount_percent": 0
+    },
+    "trailer_video": "/videos/courses/course_8_trailer.mp4",
+    "skill_tags": [
+      "Engenharia de Prompt",
+      "Grandes Modelos de Linguagem",
+      "Construção de Base de Conhecimento"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Plano de Criação de IP para Criadores com IA",
+    "description": "Aprenda como produzir conteúdo em massa com IA, gerenciar contas de IP e criar sua própria fortaleza de conteúdo pessoal.",
+    "chapters": [
+      "Capítulo 1 Escolha o seu nicho de IP",
+      "Capítulo 2 Posicionamento de conteúdo e definição de personagem",
+      "Capítulo 3 Fluxo de trabalho de IA para produção em massa de conteúdo",
+      "Capítulo 4 Como criar presença marcante e engajamento de usuários",
+      "Capítulo 5 Distribuição em múltiplas plataformas e crescimento exponencial de audiência",
+      "Capítulo 6 Projeto prático: complete o plano de lançamento do seu IP em 3 meses"
+    ],
+    "level": "Intermediário",
+    "instructor": {
+      "name": "Chen Siyuan",
+      "bio": "Especialista em operação de e-commerce, domina estratégias de marketing com IA, autor de 'Aplicações Comerciais de IA'",
+      "avatar": "/images/instructors/instructor_4.jpg"
+    },
+    "cover_image": "/images/courses/course_9.jpg",
+    "duration": "12 horas",
+    "students_enrolled": 500,
+    "rating": 4.9,
+    "category": "Criação de Conteúdo",
+    "slug": "plano-criacao-ip-criadores-ia",
+    "teaser": "Aprenda como produzir conteúdo em massa com IA, gerenciar contas de IP e criar sua própria fortaleza de conteúdo pessoal...",
+    "featured": true,
+    "difficulty": "Nível Intermediário",
+    "completion_time": "17 dias",
+    "what_youll_learn": [
+      "Domine as principais habilidades e fluxos de trabalho do Plano de Criação de IP para Criadores com IA",
+      "Do zero até a realização independente de projetos práticos de criação de conteúdo",
+      "Obtenha insights e experiência prática de ponta do setor",
+      "Construa sua própria metodologia de trabalho com IA"
+    ],
+    "testimonials": [
+      {
+        "name": "Li Xiaohua",
+        "job": "Gerente de Produto",
+        "comment": "Este curso 'Plano de Criação de IP para Criadores com IA' é excelente! Encontrei uma nova direção profissional, muito prático.",
+        "avatar": "/images/testimonials/user_1.jpg",
+        "rating": 5
+      },
+      {
+        "name": "Wang Jianming",
+        "job": "Freelancer",
+        "comment": "Este curso 'Plano de Criação de IP para Criadores com IA' é excelente! Minha eficiência triplicou, vale cada centavo.",
+        "avatar": "/images/testimonials/user_2.jpg",
+        "rating": 4
+      }
+    ],
+    "pricing": {
+      "original": 699,
+      "current": 599,
+      "discount_percent": 0
+    },
+    "trailer_video": "/videos/courses/course_9_trailer.mp4",
+    "skill_tags": [
+      "Redação Criativa",
+      "Geração de Conteúdo com IA",
+      "Design Visual"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Criação de Mangás e Novelas Curtas com IA",
+    "description": "Aprenda como usar IA para gerar quadros de mangá, criar personagens e roteiros, e produza rapidamente obras originais de curta duração.",
+    "chapters": [
+      "Capítulo 1 Tendências de mangá e conteúdos ilustrados",
+      "Capítulo 2 Criando personagens e cenários com Midjourney",
+      "Capítulo 3 ChatGPT auxiliando na escrita de roteiros",
+      "Capítulo 4 Storyboard automático com IA (ferramentas de storyboard)",
+      "Capítulo 5 Prática do fluxo de geração de novelas ilustradas",
+      "Capítulo 6 Desafio prático: publique sua primeira obra curta com IA"
+    ],
+    "level": "Intermediário",
+    "instructor": {
+      "name": "Lin Yuqing",
+      "bio": "Especialista em produtividade no trabalho, referência em integração de ferramentas de IA, instrutora corporativa em IA",
+      "avatar": "/images/instructors/instructor_5.jpg"
+    },
+    "cover_image": "/images/courses/course_10.jpg",
+    "duration": "12 horas",
+    "students_enrolled": 550,
+    "rating": 5.0,
+    "category": "Criação de Conteúdo",
+    "slug": "criacao-de-mangas-e-novelas-curtas-com-ia",
+    "teaser": "Aprenda como usar IA para gerar quadros de mangá, criar personagens e roteiros, e produza rapidamente obras originais de curta duração...",
+    "featured": false,
+    "difficulty": "Nível Intermediário",
+    "completion_time": "17 dias",
+    "what_youll_learn": [
+      "Domine as principais habilidades e fluxos de trabalho para criar mangás curtos com IA",
+      "Do zero até a realização independente de projetos práticos de criação de conteúdo",
+      "Obtenha insights e experiência prática de ponta do setor",
+      "Construa sua própria metodologia de trabalho com IA"
+    ],
+    "testimonials": [
+      {
+        "name": "Wang Jianming",
+        "job": "Freelancer",
+        "comment": "Este curso 'Criação de Mangás e Novelas Curtas com IA' é excelente! Minha eficiência triplicou, muito prático.",
+        "avatar": "/images/testimonials/user_2.jpg",
+        "rating": 4
+      },
+      {
+        "name": "Zhang Siqi",
+        "job": "Criadora de Conteúdo",
+        "comment": "Este curso 'Criação de Mangás e Novelas Curtas com IA' é excelente! Resolveu um problema que me incomodava há muito tempo, vale cada centavo.",
+        "avatar": "/images/testimonials/user_3.jpg",
+        "rating": 4
+      }
+    ],
+    "pricing": {
+      "original": 799,
+      "current": 699,
+      "discount_percent": 25
+    },
+    "trailer_video": "/videos/courses/course_10_trailer.mp4",
+    "skill_tags": [
+      "Redação Criativa",
+      "Geração de Conteúdo com IA",
+      "Design Visual"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Geração de Música e Produção de Áudio com IA na Prática",
+    "description": "Domine como usar IA para criar músicas originais, mixagem e design de som — ideal para podcasts, dublagem de vídeos curtos e outros cenários.",
+    "chapters": [
+      "Capítulo 1 Visão geral das ferramentas de música com IA (Suno, Boomy, etc.)",
+      "Capítulo 2 Técnicas básicas de texto para música",
+      "Capítulo 3 Mixagem e edição auxiliada por IA",
+      "Capítulo 4 Direitos autorais de áudio e pontos de atenção",
+      "Capítulo 5 Publicação de músicas em múltiplas plataformas",
+      "Capítulo 6 Desafio prático: produza sua primeira música com IA"
+    ],
+    "level": "Intermediário",
+    "instructor": {
+      "name": "Li Mingyuan",
+      "bio": "Especialista em aplicações de IA, 10 anos de experiência em produtos de internet, focado em pesquisas de IA + marca pessoal",
+      "avatar": "/images/instructors/instructor_1.jpg"
+    },
+    "cover_image": "/images/courses/course_11.jpg",
+    "duration": "12 horas",
+    "students_enrolled": 600,
+    "rating": 4.5,
+    "category": "Criação de Conteúdo",
+    "slug": "geracao-musica-audio-ia-pratica",
+    "teaser": "Domine como usar IA para criar músicas originais, mixagem e design de som — ideal para podcasts, dublagem de vídeos curtos e outros cenários...",
+    "featured": false,
+    "difficulty": "Nível Intermediário",
+    "completion_time": "17 dias",
+    "what_youll_learn": [
+      "Domine as principais habilidades e fluxos de trabalho da produção de música e áudio com IA",
+      "Do zero até a realização independente de projetos práticos de criação de conteúdo",
+      "Obtenha insights e experiência prática de ponta do setor",
+      "Construa sua própria metodologia de trabalho com IA"
+    ],
+    "testimonials": [
+      {
+        "name": "Zhang Siqi",
+        "job": "Criadora de Conteúdo",
+        "comment": "Este curso 'Geração de Música e Produção de Áudio com IA na Prática' é excelente! Resolveu um problema que me incomodava há muito tempo, muito prático.",
+        "avatar": "/images/testimonials/user_3.jpg",
+        "rating": 4
+      },
+      {
+        "name": "Zhao Yunfeng",
+        "job": "Marketing",
+        "comment": "Este curso 'Geração de Música e Produção de Áudio com IA na Prática' é excelente! Aprendi habilidades realmente úteis, vale cada centavo.",
+        "avatar": "/images/testimonials/user_4.jpg",
+        "rating": 5
+      }
+    ],
+    "pricing": {
+      "original": 399,
+      "current": 299,
+      "discount_percent": 0
+    },
+    "trailer_video": "/videos/courses/course_11_trailer.mp4",
+    "skill_tags": [
+      "Redação Criativa",
+      "Geração de Conteúdo com IA",
+      "Design Visual"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Bootcamp de Introdução para Engenheiros de Prompt",
+    "description": "Aprenda rapidamente técnicas de escrita de Prompts de alta qualidade, conheça a carreira e aplicações práticas.",
+    "chapters": [
+      "Capítulo 1 O que é um Engenheiro de Prompt",
+      "Capítulo 2 Exemplos de design de Prompt em diferentes setores",
+      "Capítulo 3 Técnicas para melhorar a qualidade das respostas da IA",
+      "Capítulo 4 Design e controle de diálogos em múltiplas etapas",
+      "Capítulo 5 Exercícios práticos em projetos de Prompt",
+      "Capítulo 6 Carreira e como conseguir seus primeiros clientes"
+    ],
+    "level": "Intermediário",
+    "instructor": {
+      "name": "Wang Zhiqiang",
+      "bio": "Ex-diretor técnico de grande empresa, especialista prático em desenvolvimento de IA, domina simplificar e implementar tecnologias complexas",
+      "avatar": "/images/instructors/instructor_2.jpg"
+    },
+    "cover_image": "/images/courses/course_12.jpg",
+    "duration": "12 horas",
+    "students_enrolled": 650,
+    "rating": 4.5,
+    "category": "Aplicação de Ferramentas de IA",
+    "slug": "bootcamp-introducao-engenheiros-prompt",
+    "teaser": "Aprenda rapidamente técnicas de escrita de Prompts de alta qualidade, conheça a carreira e aplicações práticas...",
+    "featured": false,
+    "difficulty": "Nível Intermediário",
+    "completion_time": "17 dias",
+    "what_youll_learn": [
+      "Domine as principais habilidades e fluxos de trabalho do Bootcamp de Introdução para Engenheiros de Prompt",
+      "Do zero até a realização independente de projetos práticos com ferramentas de IA",
+      "Obtenha insights e experiência prática de ponta do setor",
+      "Construa sua própria metodologia de trabalho com IA"
+    ],
+    "testimonials": [
+      {
+        "name": "Zhao Yunfeng",
+        "job": "Marketing",
+        "comment": "Este curso 'Bootcamp de Introdução para Engenheiros de Prompt' é excelente! Aprendi habilidades realmente úteis, muito prático.",
+        "avatar": "/images/testimonials/user_4.jpg",
+        "rating": 5
+      },
+      {
+        "name": "Chen Mingliang",
+        "job": "Engenheiro de Software",
+        "comment": "Este curso 'Bootcamp de Introdução para Engenheiros de Prompt' é excelente! Ampliou minha visão sobre aplicações de IA, vale cada centavo.",
+        "avatar": "/images/testimonials/user_5.jpg",
+        "rating": 4
+      }
+    ],
+    "pricing": {
+      "original": 499,
+      "current": 399,
+      "discount_percent": 0
+    },
+    "trailer_video": "/videos/courses/course_12_trailer.mp4",
+    "skill_tags": [
+      "Engenharia de Prompt",
+      "Grandes Modelos de Linguagem",
+      "Construção de Base de Conhecimento"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Introdução Rápida à Lei e Conformidade com IA",
+    "description": "Entenda os riscos legais e requisitos de conformidade na produção de conteúdo com IA, uso de dados e proteção de direitos autorais.",
+    "chapters": [
+      "Capítulo 1 Análise da situação atual dos direitos autorais em conteúdo de IA",
+      "Capítulo 2 Proteção de dados pessoais e visão geral do GDPR",
+      "Capítulo 3 Limites legais de conteúdo gerado por IA",
+      "Capítulo 4 Pontos de atenção para conformidade em aplicações empresariais de IA",
+      "Capítulo 5 Análise de casos: exemplos de disputas de direitos autorais com IA",
+      "Capítulo 6 Como criar um guia de uso responsável e conforme da IA"
+    ],
+    "level": "Intermediário",
+    "instructor": {
+      "name": "Zhang Tianqi",
+      "bio": "Criadora de conteúdo experiente, especialista em aplicações criativas de IA, já ajudou centenas de empresas a implementar IA",
+      "avatar": "/images/instructors/instructor_3.jpg"
+    },
+    "cover_image": "/images/courses/course_13.jpg",
+    "duration": "12 horas",
+    "students_enrolled": 700,
+    "rating": 4.6,
+    "category": "Lei e Conformidade",
+    "slug": "introducao-rapida-lei-conformidade-ia",
+    "teaser": "Entenda os riscos legais e requisitos de conformidade na produção de conteúdo com IA, uso de dados e proteção de direitos autorais...",
+    "featured": true,
+    "difficulty": "Nível Intermediário",
+    "completion_time": "17 dias",
+    "what_youll_learn": [
+      "Domine as principais habilidades e fluxos de trabalho da Introdução Rápida à Lei e Conformidade com IA",
+      "Do zero até a realização independente de projetos práticos de lei e conformidade",
+      "Obtenha insights e experiência prática de ponta do setor",
+      "Construa sua própria metodologia de trabalho com IA"
+    ],
+    "testimonials": [
+      {
+        "name": "Chen Mingliang",
+        "job": "Engenheiro de Software",
+        "comment": "Este curso 'Introdução Rápida à Lei e Conformidade com IA' é excelente! Ampliou minha visão sobre aplicações de IA, muito prático.",
+        "avatar": "/images/testimonials/user_5.jpg",
+        "rating": 4
+      },
+      {
+        "name": "Lin Xiaoman",
+        "job": "Empresária",
+        "comment": "Este curso 'Introdução Rápida à Lei e Conformidade com IA' é excelente! Encontrei uma nova direção profissional, vale cada centavo.",
+        "avatar": "/images/testimonials/user_6.jpg",
+        "rating": 4
+      }
+    ],
+    "pricing": {
+      "original": 599,
+      "current": 499,
+      "discount_percent": 25
+    },
+    "trailer_video": "/videos/courses/course_13_trailer.mp4",
+    "skill_tags": [
+      "Conformidade de Dados",
+      "Propriedade Intelectual",
+      "Ética em IA"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Desenvolvendo Aplicações Educacionais e Assistentes de Aprendizagem com IA",
+    "description": "Descubra como criar produtos de educação online com IA, incluindo geração de conteúdo, atendimento inteligente de dúvidas e experiência de aprendizado personalizada.",
+    "chapters": [
+      "Capítulo 1 Cenários de aplicação de IA na educação",
+      "Capítulo 2 Automação de geração de conteúdo (apostilas/exercícios/provas)",
+      "Capítulo 3 Construção de chatbot para dúvidas inteligentes (sistema RAG)",
+      "Capítulo 4 Algoritmo de recomendação personalizada de estudos",
+      "Capítulo 5 Guia para lançar pequenas aplicações educacionais",
+      "Capítulo 6 Desafio prático: crie seu primeiro assistente de aprendizagem com IA"
+    ],
+    "level": "Intermediário",
+    "instructor": {
+      "name": "Chen Siyuan",
+      "bio": "Especialista em operação de e-commerce, domina estratégias de marketing com IA, autor de 'Aplicações Comerciais de IA'",
+      "avatar": "/images/instructors/instructor_4.jpg"
+    },
+    "cover_image": "/images/courses/course_14.jpg",
+    "duration": "12 horas",
+    "students_enrolled": 750,
+    "rating": 4.7,
+    "category": "Desenvolvimento de Aplicativos",
+    "slug": "desenvolvendo-aplicacoes-educacionais-ia",
+    "teaser": "Descubra como criar produtos de educação online com IA, incluindo geração de conteúdo, atendimento inteligente de dúvidas e experiência de aprendizado personalizada...",
+    "featured": false,
+    "difficulty": "Nível Intermediário",
+    "completion_time": "17 dias",
+    "what_youll_learn": [
+      "Domine as principais habilidades e fluxos de trabalho",
+      "Do zero até a realização independente de projetos práticos de desenvolvimento de aplicativos",
+      "Obtenha insights e experiência prática de ponta do setor",
+      "Construa sua própria metodologia de trabalho com IA"
+    ],
+    "testimonials": [
+      {
+        "name": "Lin Xiaoman",
+        "job": "Empresária",
+        "comment": "Este curso 'Desenvolvendo Aplicações Educacionais e Assistentes de Aprendizagem com IA' é excelente! Encontrei uma nova direção profissional, muito prático.",
+        "avatar": "/images/testimonials/user_6.jpg",
+        "rating": 4
+      },
+      {
+        "name": "Guo Zhiqiang",
+        "job": "Professor Universitário",
+        "comment": "Este curso 'Desenvolvendo Aplicações Educacionais e Assistentes de Aprendizagem com IA' é excelente! Minha eficiência triplicou, vale cada centavo.",
+        "avatar": "/images/testimonials/user_7.jpg",
+        "rating": 5
+      }
+    ],
+    "pricing": {
+      "original": 699,
+      "current": 599,
+      "discount_percent": 0
+    },
+    "trailer_video": "/videos/courses/course_14_trailer.mp4",
+    "skill_tags": [
+      "Desenvolvimento Sem Código",
+      "Integração de API",
+      "Experiência do Usuário"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Automação de Escritório com IA: Do Relatório Diário ao PPT em Um Clique",
+    "description": "Domine técnicas práticas de IA para gerar e otimizar automaticamente documentos do escritório, relatórios de dados e apresentações de slides (PPT).",
+    "chapters": [
+      "Capítulo 1 Visão geral da automação de escritório com IA",
+      "Capítulo 2 ChatGPT + Excel para processar relatórios de dados",
+      "Capítulo 3 Sumários inteligentes de relatórios diários e semanais",
+      "Capítulo 4 Geração e aprimoramento automático de PPT (Tome/Beautiful.ai)",
+      "Capítulo 5 Processamento em lote e scripts personalizados (Python + IA)",
+      "Capítulo 6 Projeto prático: monte seu assistente de automação de escritório"
+    ],
+    "level": "Intermediário",
+    "instructor": {
+      "name": "Lin Yuqing",
+      "bio": "Especialista em produtividade no trabalho, referência em integração de ferramentas de IA, instrutora corporativa em IA",
+      "avatar": "/images/instructors/instructor_5.jpg"
+    },
+    "cover_image": "/images/courses/course_15.jpg",
+    "duration": "12 horas",
+    "students_enrolled": 800,
+    "rating": 4.7,
+    "category": "Produtividade no Escritório",
+    "slug": "automacao-ia-escritorio-relatorio-ppt",
+    "teaser": "Domine técnicas práticas de IA para gerar e otimizar automaticamente documentos do escritório, relatórios de dados e apresentações de slides (PPT)...",
+    "featured": true,
+    "difficulty": "Nível Intermediário",
+    "completion_time": "17 dias",
+    "what_youll_learn": [
+      "Domine as principais habilidades e fluxos de trabalho de Automação de Escritório com IA: do Relatório Diário ao PPT em Um Clique",
+      "Do zero até a realização independente de projetos práticos de produtividade no escritório",
+      "Obtenha insights e experiência prática de ponta do setor",
+      "Construa sua própria metodologia de trabalho com IA"
+    ],
+    "testimonials": [
+      {
+        "name": "Guo Zhiqiang",
+        "job": "Professor Universitário",
+        "comment": "Este curso 'Automação de Escritório com IA: Do Relatório Diário ao PPT em Um Clique' é excelente! Minha eficiência triplicou, muito prático.",
+        "avatar": "/images/testimonials/user_7.jpg",
+        "rating": 5
+      },
+      {
+        "name": "Huang Jianguo",
+        "job": "Designer",
+        "comment": "Este curso 'Automação de Escritório com IA: Do Relatório Diário ao PPT em Um Clique' é excelente! Resolveu um problema que me incomodava há muito tempo, vale cada centavo.",
+        "avatar": "/images/testimonials/user_8.jpg",
+        "rating": 4
+      }
+    ],
+    "pricing": {
+      "original": 799,
+      "current": 699,
+      "discount_percent": 0
+    },
+    "trailer_video": "/videos/courses/course_15_trailer.mp4",
+    "skill_tags": [
+      "Otimização de Fluxos de Trabalho",
+      "Relatórios Automatizados",
+      "Colaboração em Equipe"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Guia de Roteirização e Criação de Conteúdo para Curtas com IA",
+    "description": "Aprenda como usar IA para gerar rapidamente roteiros de curtas, esquetes e adaptações para novos cenários como vídeos curtos e e-commerce ao vivo.",
+    "chapters": [
+      "Capítulo 1 Tendências de conteúdo em curtas e vídeos curtos",
+      "Capítulo 2 ChatGPT para construção eficiente de personagens e enredos",
+      "Capítulo 3 Geração rápida de roteiros de diálogos e orientação de storyboard",
+      "Capítulo 4 Integração com Midjourney para criação de storyboards visuais",
+      "Capítulo 5 Canais de monetização e blockchain para curtas",
+      "Capítulo 6 Projeto prático: publique um roteiro original de curta com IA"
+    ],
+    "level": "Intermediário",
+    "instructor": {
+      "name": "Li Mingyuan",
+      "bio": "Especialista em aplicações de IA, 10 anos de experiência em produtos de internet, focado em pesquisas de IA + marca pessoal",
+      "avatar": "/images/instructors/instructor_1.jpg"
+    },
+    "cover_image": "/images/courses/course_16.jpg",
+    "duration": "12 horas",
+    "students_enrolled": 850,
+    "rating": 4.8,
+    "category": "Criação de Conteúdo",
+    "slug": "guia-criacao-roteiro-curta-ia",
+    "teaser": "Aprenda como usar IA para gerar rapidamente roteiros de curtas, esquetes e adaptações para novos cenários como vídeos curtos e e-commerce ao vivo...",
+    "featured": false,
+    "difficulty": "Nível Intermediário",
+    "completion_time": "17 dias",
+    "what_youll_learn": [
+      "Domine as principais habilidades e fluxos de trabalho do Guia de Roteirização e Criação de Conteúdo para Curtas com IA",
+      "Do zero até a realização independente de projetos práticos de criação de conteúdo",
+      "Obtenha insights e experiência prática de ponta do setor",
+      "Construa sua própria metodologia de trabalho com IA"
+    ],
+    "testimonials": [
+      {
+        "name": "Huang Jianguo",
+        "job": "Designer",
+        "comment": "Este curso 'Guia de Roteirização e Criação de Conteúdo para Curtas com IA' é excelente! Resolveu um problema que me incomodava há muito tempo, muito prático.",
+        "avatar": "/images/testimonials/user_8.jpg",
+        "rating": 4
+      },
+      {
+        "name": "Li Xiaohua",
+        "job": "Gerente de Produto",
+        "comment": "Este curso 'Guia de Roteirização e Criação de Conteúdo para Curtas com IA' é excelente! Encontrei uma nova direção profissional, vale cada centavo.",
+        "avatar": "/images/testimonials/user_1.jpg",
+        "rating": 5
+      }
+    ],
+    "pricing": {
+      "original": 399,
+      "current": 299,
+      "discount_percent": 25
+    },
+    "trailer_video": "/videos/courses/course_16_trailer.mp4",
+    "skill_tags": [
+      "Redação Criativa",
+      "Geração de Conteúdo com IA",
+      "Design Visual"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Copywriting e Criatividade Publicitária com IA na Prática",
+    "description": "Domine como gerar em massa, com IA, textos publicitários de alta conversão, descrições de produtos e ideias de marketing.",
+    "chapters": [
+      "Capítulo 1 Princípios psicológicos do copywriting de marketing",
+      "Capítulo 2 Modelos e aplicações de copywriting com ChatGPT",
+      "Capítulo 3 Métodos de otimização e testes A/B em copywriting",
+      "Capítulo 4 Geração de roteiros para anúncios em vídeo curto",
+      "Capítulo 5 Design automático de pôsteres e imagens publicitárias com IA",
+      "Capítulo 6 Desafio prático: crie um pacote completo de marketing com IA"
+    ],
+    "level": "Intermediário",
+    "instructor": {
+      "name": "Wang Zhiqiang",
+      "bio": "Ex-diretor técnico de grande empresa, especialista prático em desenvolvimento de IA, domina simplificar e implementar tecnologias complexas",
+      "avatar": "/images/instructors/instructor_2.jpg"
+    },
+    "cover_image": "/images/courses/course_17.jpg",
+    "duration": "12 horas",
+    "students_enrolled": 900,
+    "rating": 4.8,
+    "category": "Marketing Digital",
+    "slug": "copywriting-criatividade-ia-pratica",
+    "teaser": "Domine como gerar em massa, com IA, textos publicitários de alta conversão, descrições de produtos e ideias de marketing...",
+    "featured": true,
+    "difficulty": "Nível Intermediário",
+    "completion_time": "17 dias",
+    "what_youll_learn": [
+      "Domine as principais habilidades e fluxos de trabalho de Copywriting e Criatividade Publicitária com IA na Prática",
+      "Do zero até a realização independente de projetos práticos de marketing digital",
+      "Obtenha insights e experiência prática de ponta do setor",
+      "Construa sua própria metodologia de trabalho com IA"
+    ],
+    "testimonials": [
+      {
+        "name": "Li Xiaohua",
+        "job": "Gerente de Produto",
+        "comment": "Este curso 'Copywriting e Criatividade Publicitária com IA na Prática' é excelente! Encontrei uma nova direção profissional, muito prático.",
+        "avatar": "/images/testimonials/user_1.jpg",
+        "rating": 5
+      },
+      {
+        "name": "Wang Jianming",
+        "job": "Freelancer",
+        "comment": "Este curso 'Copywriting e Criatividade Publicitária com IA na Prática' é excelente! Minha eficiência triplicou, vale cada centavo.",
+        "avatar": "/images/testimonials/user_2.jpg",
+        "rating": 4
+      }
+    ],
+    "pricing": {
+      "original": 499,
+      "current": 399,
+      "discount_percent": 0
+    },
+    "trailer_video": "/videos/courses/course_17_trailer.mp4",
+    "skill_tags": [
+      "Marketing de Conteúdo",
+      "Mídias Sociais",
+      "Criação Publicitária"
+    ]
+  }
+]
